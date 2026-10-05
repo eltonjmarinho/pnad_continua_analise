@@ -2,18 +2,6 @@ Este projeto realiza a extração, processamento estatístico e visualização d
 
 ---
 
-## 📊 Visualização Gerada
-
-O pipeline gera uma replicação gráfica fiel às publicações analíticas do IBGE:
-
-![Trabalhadores plataformizados por grandes regiões](relatorios/grafico_exemplo_replicado.png)
-
-* **Gráfico de barras agrupadas** com as quatro categorias de plataformas em cada Grande Região.
-* **Rótulos de dados (%)** nas barras para leitura direta.
-* **Linhas de referência (médias nacionais)** indicando a proporção geral de cada tipo de serviço no país.
-
----
-
 ## 📁 Estrutura do Projeto
 
 O código é organizado segundo uma arquitetura modular em camadas:
