@@ -14,9 +14,7 @@ pnad_continua_analise/
 │   ├── controllers/
 │   │   └── main_controller.py         # Orquestra leitura, ponderação amostral e plot
 │   ├── models/
-│   │   ├── data_loader.py              # Leitor otimizado de dados de largura fixa (FWF)
-│   │   ├── data_processor.py           # Processamento e transformações de dados
-│   │   └── analysis.py                 # Funções analíticas e estatísticas
+│   │   └── data_loader.py              # Leitor otimizado de dados de largura fixa (FWF)
 │   └── views/
 │       └── plot_generator.py           # Geração e estilização visual com Matplotlib/Seaborn
 ├── .gitignore                          # Ignora arquivos de dados e binários
